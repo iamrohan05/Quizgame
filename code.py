@@ -1,4 +1,4 @@
-score = 0
+score=0
 print("Let's start our soccer quiz game 🎮🎮")
 
 playing = input("Do you want to play this game? Yes/No: ")
@@ -91,5 +91,3 @@ else:
 # Final score
 print("Your final score is:", score, "/10")
 print("Thanks for playing! ⚽🎉")
-
-
