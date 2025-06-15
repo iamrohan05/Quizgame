@@ -3,6 +3,7 @@ print("Let's start our soccer quiz game 🎮🎮")
 
 playing = input("Do you want to play this game? Yes/No: ")
 if playing.lower() == "no":
+    print("Exiting the game")
     quit()
 else:
     print("Welcome to the game!!")
