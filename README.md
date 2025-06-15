@@ -1,1 +1,1 @@
-# This is my first project ever and I am trying to make a quiz game
+# Completed by first python project on 6/15/2025
