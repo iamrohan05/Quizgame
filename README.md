@@ -1,1 +1,1 @@
-# Completed by first python project on 6/15/2025
+# Completed my first python project on 6/15/2025
